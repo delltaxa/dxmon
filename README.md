@@ -23,3 +23,5 @@ cp it to the /bin/ directory:
 
 You can see all your interfaces by
 listing the directory '/sys/class/net'
+
+# Sorry for unreadable code
