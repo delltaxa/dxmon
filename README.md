@@ -14,6 +14,9 @@ devices for possible vulnerable ports
 Install it:
 ``` mkdir dxmon && cd dxmon && git clone https://github.com/delltaxa/dxmon.git ```
 
+Install the dontnet6.0 framework:
+``` chmod +x ./install ; ./install ```
+
 cp it to the /bin/ directory:
 ``` sudo cp ./dxmon /bin/dxmon ```
 **********
